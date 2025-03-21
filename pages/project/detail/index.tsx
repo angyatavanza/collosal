@@ -65,8 +65,8 @@ const ProjectDetail = () => {
       <section className="grid gap-16 place-items-center">
         <div className="text-center sm:w-10/12 md:w-8/12 lg:w-6/12" data-aos="zoom-in-up">
           <PageSentence
-            badge="PROJECT DETAIL"
-            title="The Desktop App Landing Page"
+            badge="PROJECTS"
+            title="Other Amazing Projects"
           />
         </div>
         <div className="w-full grid grid-cols-1 gap-y-16 sm:grid-cols-2 sm:gap-x-5">

@@ -67,7 +67,7 @@ const About = () => {
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-1.webp"
-              job="Founder"
+              job="Founder and Principal Web Developer"
               name="Albert Flores"
             />
           </div>
